@@ -1,0 +1,10 @@
+
+reflex==0.8.17
+scikit-learn
+numpy
+pandas
+pymongo
+openai
+supabase
+together
+tavily-python
