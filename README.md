@@ -1,7 +1,8 @@
 # 🚀 PropMate (AI Agent)
 
 🎥 Project Demo:
-https://github.com/demisewastaken/Hack/
+https://drive.google.com/file/d/1YMJYO20FS0THcR2kiYAAS9v9c_pDViqv/view?usp=share_link
+
 
 # 🏡 Propmate – Smart Real Estate Analysis Platform
 
