@@ -1,4 +1,4 @@
-# 🚀 PropMate (AI Agent)
+# 🚀 PropMate by Byte Me
 
 🎥 Project Demo:
 https://drive.google.com/file/d/1YMJYO20FS0THcR2kiYAAS9v9c_pDViqv/view?usp=share_link
