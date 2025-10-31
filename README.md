@@ -64,7 +64,7 @@ Fork the repo, create a new branch, and submit a pull request with your improvem
 ---
 
 ### 💬 Contact
-📧 **Team Propmate** – dikshitghimire100@gmail.com  
+📧 **Team Byte Me** – dikshitghimire100@gmail.com  
 🌍 [Website Coming Soon]
 
 ---
